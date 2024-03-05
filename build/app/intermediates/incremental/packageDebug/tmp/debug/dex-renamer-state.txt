@@ -1,0 +1,4 @@
+#Tue Mar 05 00:08:16 PKT 2024
+base.0=/Users/macbookpro/task_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
